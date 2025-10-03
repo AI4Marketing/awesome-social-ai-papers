@@ -1,26 +1,40 @@
-# Awesome Social AI Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Social AI Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of papers focusing on social AI research, organized by key cognitive capabilities and research areas
+A curated list of papers on **social intelligence in artificial agents** — covering social perception, theory of mind, empathy, moral reasoning, human–AI interaction, and more.
 
-This list provides an overview of recent publications in cognitive AI research, exploring computational models of cognition, reasoning, and intelligence. As this field is rapidly evolving, this list presents only a subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/grow-ai-like-a-child/awesome-cognitive-ai-papers/pulls).
+This list surfaces influential and recent publications across social AI. It’s not exhaustive; suggestions and PRs are welcome!
 
-Adding Citations: To convert BibTeX citations to Markdown format for this repository, you can use the [**bib2md**](https://github.com/grow-ai-like-a-child/bib2md) agent - a Python tool that automatically converts BibTeX files to Markdown with web enrichment.
+---
 
-## Categories
-- [Core Cognition](#core-cognition)
-- [Theory-of-Mind](#theory-of-mind)
-- [Physical World Modeling](#physical-world-modeling)
-- [Agency](#agency)
-- [Metacognition](#metacognition)
-- [Empathy](#empathy)
-- [Moral Reasoning](#moral-reasoning)
-- [Consciousness](#consciousness)
-- [Mechanistic Interpretability](#mechanistic-interpretability)
-- [Human-Computer Interaction (HCI)](#human-computer-interaction-hci)
-- [NeuroAI](#neuroai)
-- [AI Ethics](#ai-ethics)
+## Contents
 
-## Core Cognition
-- Lake, Brenden M., Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. [**Building machines that learn and think like people.**](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9535B1D745A0377E16C590E14B94993/S0140525X16001837a.pdf/building_machines_that_learn_and_think_like_people.pdf) Behavioral and Brain Sciences (2017)
-<<<<<<< HEAD
-- Fodor, J. A., & Pylyshyn,
+* [Very Good](#Very-Good)
+* [Interesting to Read](#Interesting-to-Read)
+
+---
+
+## Very Good
+
+* Lake, Brenden M., Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel J. Gershman. **Building machines that learn and think like people.** *Behavioral and Brain Sciences* (2017). [PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A9535B1D745A0377E16C590E14B94993/S0140525X16001837a.pdf/building_machines_that_learn_and_think_like_people.pdf)
+* Battaglia, Peter W., Jessica B. Hamrick, and Joshua B. Tenenbaum. **Simulation as an engine of physical scene understanding.** *PNAS* (2013). [Link](https://www.pnas.org/doi/10.1073/pnas.1306572110)
+* Ullman, Tomer D., and Joshua B. Tenenbaum. **Bayesian models of cognition.** In *The Oxford Handbook of Thinking and Reasoning* (2012). [Link](https://cocosci.mit.edu/papers/ullman_tenenbaum_2012.pdf)
+
+## Interesting to Read
+
+---
+
+## How to Contribute
+
+* Open a Pull Request with your additions or edits.
+* Prefer peer-reviewed venues when possible; preprints are welcome with clear venue/status.
+* Keep entries concise and consistent (see format below). Group similar works under the best-fit category.
+
+## Entry Format
+
+```
+- Author(s). **Title.** *Venue* (Year). [Link](URL)
+```
+
+## Disclaimer
+
+This list highlights influential work across social AI. Inclusion does not imply endorsement of any particular method or claim; where debates exist, consider reading multiple perspectives.
