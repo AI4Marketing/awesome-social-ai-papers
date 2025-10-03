@@ -1,6 +1,6 @@
 # Awesome Social AI Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-> A curated list of papers focusing on social AI research, organized by key cognitive capabilities and research areas
+A curated list of papers focusing on social AI research, organized by key cognitive capabilities and research areas
 
 This list provides an overview of recent publications in cognitive AI research, exploring computational models of cognition, reasoning, and intelligence. As this field is rapidly evolving, this list presents only a subset of relevant papers. In case important papers are missing please send a [pull request](https://github.com/grow-ai-like-a-child/awesome-cognitive-ai-papers/pulls).
 
